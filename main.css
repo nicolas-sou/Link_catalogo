@@ -4,6 +4,10 @@
      padding: 40px;
  }
 
+ .img-logo{
+        padding-left: 37px;
+ }
+
  .container {
      display: flex;
      flex-wrap: wrap;
@@ -11,7 +15,7 @@
      justify-content: center;
  }
 
- h1 {
+ .tex-title {
      color: #2F406C;
      text-align: center;
      margin-bottom: 20px;
