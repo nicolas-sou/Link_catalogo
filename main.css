@@ -84,3 +84,9 @@ body {
   font-size: 18px;
   font-weight: bold;
 }
+
+@media (max-width: 768px) {
+  .logo {
+    max-width: 80%;
+  }
+}
